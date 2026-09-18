@@ -21,7 +21,7 @@ Micro-SaaS: Kedai/UMKM
 ## WORKFLOW!! 
 1. *git clone* (Clone repo ke local)
 2. *git checkout -b NAMAKALIAN* (Membuat branch dengan nama sendiri)
-3. *git checkout branch_tujuan* (Pindah branch kalian atau kalo ke main repo berarti checkout main)
+3. *git checkout branch_tujuan / git switch branch_tujuan* (Pindah branch kalian atau kalo ke main repo berarti checkout main)
 4. *git add .* (menambah yang ingin dicommit)
 5. *git commit -m "pesan commitnya"* (commit yang ingin dipush)
 6. *git push -u origin BRANCHKALIAN* (push ke BRANCH KALIAN, JANGAN KE MAIN!!)
