@@ -28,5 +28,6 @@ Micro-SaaS: Kedai/UMKM
 7. *git pull main* (Posisi branch main, pull dari main. PULL KETIKA SUDAH MERGE FINAL)
 8. *git pull origin main* (Posisi branch kalian, pull dari main)
 9. *git merge main* (Posisi branch sendiri, merge dari main yang terupdate!)
+10. *git status* (Untuk lihat posisi branch sedang dimana)
 
 note: Dilarang push ke branch main!!, push ke branch masing-masing, pastikan branch sendiri di pull terlebih dahulu dari main saat pertama kali dibuat.
