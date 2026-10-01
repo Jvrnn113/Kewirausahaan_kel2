@@ -31,3 +31,7 @@ Micro-SaaS: Kedai/UMKM
 10. *git status* (Untuk lihat posisi branch sedang dimana)
 
 note: Dilarang push ke branch main!!, push ke branch masing-masing, pastikan branch sendiri di pull terlebih dahulu dari main saat pertama kali dibuat.
+
+## Link Video Youtube
+
+https://youtu.be/7vsatcmNBy4
