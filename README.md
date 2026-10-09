@@ -30,4 +30,9 @@ Micro-SaaS: Kedai/UMKM
 9. *git merge main* (Posisi branch sendiri, merge dari main yang terupdate!)
 10. *git status* (Untuk lihat posisi branch sedang dimana)
 
+---
+## Link Video Youtube
+
+https://youtu.be/7vsatcmNBy4
+
 note: Dilarang push ke branch main!!, push ke branch masing-masing, pastikan branch sendiri di pull terlebih dahulu dari main saat pertama kali dibuat.
