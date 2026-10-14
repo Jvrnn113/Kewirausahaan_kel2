@@ -35,4 +35,7 @@ Micro-SaaS: Kedai/UMKM
 
 https://youtu.be/7vsatcmNBy4
 
+## Link Gdrive
+https://drive.google.com/drive/folders/1ikJ1bphepkl1sl30E09HqMW4OkQ7a5ya?usp=drive_link
+
 note: Dilarang push ke branch main!!, push ke branch masing-masing, pastikan branch sendiri di pull terlebih dahulu dari main saat pertama kali dibuat.
